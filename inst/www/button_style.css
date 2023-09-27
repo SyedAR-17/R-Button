@@ -1,0 +1,29 @@
+/* Define the button styles */
+.button {
+  width: 241.7px;
+  height: 61.58px;
+  background-color: #253F87;
+  border-radius: 8px;
+  border: none;
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 61.58px; /* Vertically center text */
+}
+
+/* Remove the default button styles */
+.button:focus {
+  outline: none;
+}
+
+/* Hover effect if needed */
+.button:hover {
+  /* Add any hover effects here */
+}
+
+/* Active state if needed */
+.button:active {
+  /* Add active state styles here */
+}
